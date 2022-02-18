@@ -1,0 +1,12 @@
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\SOS-TIC-ENVIO-RESUMEN.exe.config
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\SOS-TIC-ENVIO-RESUMEN.exe
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\SOS-TIC-ENVIO-RESUMEN.pdb
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\ExcelDataReader.dll
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\RestSharp.dll
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\ExcelDataReader.pdb
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\ExcelDataReader.xml
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\bin\Debug\RestSharp.xml
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\obj\Debug\SOS-TIC-ENVIO-RESUMEN.csprojAssemblyReference.cache
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\obj\Debug\SOS-TIC-ENVIO-RESUMEN.csproj.CopyComplete
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\obj\Debug\SOS-TIC-ENVIO-RESUMEN.exe
+D:\Documentos\Consulta_Comprobante\SOS-TIC-ENVIO-RESUMEN\obj\Debug\SOS-TIC-ENVIO-RESUMEN.pdb
