@@ -24,3 +24,15 @@ C:\Users\ALFONSO\Desktop\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\b
 C:\Users\ALFONSO\Desktop\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\ExcelDataReader.xml
 C:\Users\ALFONSO\Desktop\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\RestSharp.xml
 C:\Users\ALFONSO\Desktop\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\obj\Debug\Consulta_Estado_Comprobante_Pago.csproj.CopyComplete
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\Consulta_Estado_Comprobante_Pago.exe.config
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\Consulta_Estado_Comprobante_Pago.exe
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\Consulta_Estado_Comprobante_Pago.pdb
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\ExcelDataReader.dll
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\RestSharp.dll
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\ExcelDataReader.xml
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\bin\Debug\RestSharp.xml
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\obj\Debug\Consulta_Estado_Comprobante_Pago.csproj.AssemblyReference.cache
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\obj\Debug\Consulta_Estado_Comprobante_Pago.csproj.CoreCompileInputs.cache
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\obj\Debug\Consulta_Estado_Comprobante_Pago.csproj.CopyComplete
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\obj\Debug\Consulta_Estado_Comprobante_Pago.exe
+C:\Users\ALFONSO\Documents\GitHub\Consulta_Comprobante\Consulta_Estado_Comprobante_Pago\obj\Debug\Consulta_Estado_Comprobante_Pago.pdb
